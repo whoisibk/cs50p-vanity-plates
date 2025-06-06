@@ -5,8 +5,8 @@ def main():
     else:
         print("Invalid")
 
-
-def is_valid(s):
+#main logic of the program
+def is_valid(s) 
     #making sure ALL condition are satisified
     if cond_1(s) and cond_2(s) and cond_3(s) and cond_4(s) and cond_5(s): 
         return True
